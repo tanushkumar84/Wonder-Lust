@@ -7,6 +7,21 @@
 //npm install nodemon
 
 
+// then for github profile also upload your code time to time 
+//pushing local repo 
+//git init
+//git remote add origin <repository-url>
+//git status
+//git remote -v   (to verify remote)
+//git branch  (to check branch)
+//git branch -M main  (to remote branch)
+//git push  -u origin main
+//git add .
+//git commit -m "Initial commit"
+//git push origin main
+
+
+
 //then require and connect all package and data in your main file
 // const express = require('express');
 // const app = express();
