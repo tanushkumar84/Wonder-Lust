@@ -1,10 +1,10 @@
 //To Start any Project first we have to install all packages
-//npm init -y
-//npm install express
-//npm install ejs
-//npm install mongoose
-//npm install express-validator
-//npm install nodemon
+// npm init -y
+// npm install express
+// npm install ejs
+// npm install mongoose
+// npm install express-validator
+// npm install nodemon
 
 
 // then for github profile also upload your code time to time 

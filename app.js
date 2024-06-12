@@ -9,7 +9,7 @@ main()
   .then(() => {
     console.log("Connected to db");
   })
-  .catch((err) => {
+   .catch((err) => {
     console.error(err);
   });
 
