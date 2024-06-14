@@ -21,6 +21,9 @@
 //git push origin main
 
 
+//git commit -am ("commit")
+//git push
+
 
 //then require and connect all package and data in your main file
 // const express = require('express');
@@ -40,3 +43,6 @@
 //then to MODEL: listing
 // like
 // title, description , image, price, location , country 
+
+
+//create route and page like new page show page edit page
