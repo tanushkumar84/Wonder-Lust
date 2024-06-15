@@ -62,3 +62,9 @@
 //and layout of the page.
 //npm i ejs-mate
 //const ejsMate =require("ejs-mate")
+
+
+// for fonts - use google fonts
+//for icons - use fontawesome
+//for bootstrap mlibrary - use getbootstrap
+//for backend library - use npmjs.com
