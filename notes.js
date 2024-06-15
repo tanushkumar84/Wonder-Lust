@@ -46,3 +46,19 @@
 
 
 //create route and page like new page show page edit page
+
+
+//What is EJS Mate
+//EJS is a templating engine that allows you to generate HTML markup with JavaScript. It stands
+//for Embedded JavaScript. It's a simple templating language that lets you generate HTML
+//on the server-side and then send it to the client's web browser. EJS is similar
+//to other templating engines like Pug, Handlebars, and Mustache.
+//EJS is often used with Node.js and Express.js to generate dynamic web pages on the server
+//side. It's a popular choice because it's easy to learn and use, and it's
+//well-suited for building web applications that require server-side rendering.
+//EJS templates are typically stored in separate files with a .ejs extension. These files
+//contain a mix of HTML and JavaScript code. The JavaScript code is used to
+//generate dynamic content, and the HTML code is used to define the structure
+//and layout of the page.
+//npm i ejs-mate
+//const ejsMate =require("ejs-mate")
